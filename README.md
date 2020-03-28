@@ -1,6 +1,6 @@
 # Eliminator
 
-Simply run main.py with python3 to get started!
+Simply run ``python3 main.py`` to get started!
 
 ## Software:
  - Python3
